@@ -2,6 +2,11 @@
 
 This is a backend service designed to identify and keep track of customer identities across multiple purchases on FluxKart.com.
 
+## Live Deployment
+
+- **Post API**: [https://bitespeed-2-ah6d.onrender.com/identify](https://bitespeed-2-ah6d.onrender.com/identify)
+- **Database Viewer**: [https://bitespeed-2-ah6d.onrender.com/contacts](https://bitespeed-2-ah6d.onrender.com/contacts)
+
 ## Tech Stack
 - **Language**: TypeScript
 - **Runtime**: Node.js
